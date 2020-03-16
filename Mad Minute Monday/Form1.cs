@@ -12,13 +12,10 @@ using MaterialSkin;
 using System.Globalization;
 
 
-//Removed some stuff
-
 namespace Mad_Minute_Monday
 {
 	public partial class Form1 : MaterialForm
 	{
-		int newintgithub = 6969;
 		public Form1()
 		{
 			InitializeComponent();
